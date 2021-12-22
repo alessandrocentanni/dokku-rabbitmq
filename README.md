@@ -1,3 +1,3 @@
 # dokku rabbitmq [![Build Status](https://img.shields.io/circleci/project/github/dokku/dokku-rabbitmq.svg?branch=master&style=flat-square "Build Status")](https://circleci.com/gh/dokku/dokku-rabbitmq/tree/master) [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg?style=flat-square "IRC Freenode")](https://webchat.freenode.net/?channels=dokku)
 
-Forked from the Official rabbitmq plugin for dokku with a modified Dockerfile enabling [Delayed Message Plugin](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange/) . It currently defaults to installing [rabbitmq:3.9.10-management](https://hub.docker.com/_/rabbitmq/).
+Forked from the Official rabbitmq plugin for dokku with a modified Dockerfile enabling [Delayed Message Plugin](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange/) . It currently defaults to installing [rabbitmq:3.9.11-management](https://hub.docker.com/_/rabbitmq/).
